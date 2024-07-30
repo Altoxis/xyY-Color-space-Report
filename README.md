@@ -1,3 +1,5 @@
+![2](https://github.com/user-attachments/assets/3385d2d5-d87f-4076-a0a2-2746d9db8792)
+![1](https://github.com/user-attachments/assets/f0478327-47dc-4eab-9626-49a2f310a23d)
 Color Report Application
 Overview
 The Color Report Application is a Python-based tool designed to manage and analyze color data. It provides functionalities to add, plot, and evaluate colors using various color spaces and allows for interactive manipulation of color samples. The application integrates with a spectrometer for real-time color measurements and supports database operations for color data management.
